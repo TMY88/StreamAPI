@@ -2,6 +2,7 @@ package pro.sky.StreamAPI;
 
 import java.util.Objects;
 
+// start
 public class Employee {
     private String firsName;
     private String lastName;
