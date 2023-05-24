@@ -1,13 +1,13 @@
-package pro.sky.collections2;
+package pro.sky.StreamAPI;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Collections2Application {
+public class StreamAPIApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Collections2Application.class, args);
+        SpringApplication.run(StreamAPIApplication.class, args);
     }
 
 }

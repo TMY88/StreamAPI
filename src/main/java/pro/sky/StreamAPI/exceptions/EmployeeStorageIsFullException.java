@@ -1,4 +1,4 @@
-package pro.sky.collections2.exceptions;
+package pro.sky.StreamAPI.exceptions;
 
 public class
 EmployeeStorageIsFullException extends RuntimeException {

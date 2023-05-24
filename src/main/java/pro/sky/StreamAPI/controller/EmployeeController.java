@@ -1,11 +1,11 @@
-package pro.sky.collections2.controller;
+package pro.sky.StreamAPI.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
-import pro.sky.collections2.Employee;
-import pro.sky.collections2.service.EmployeeService;
+import pro.sky.StreamAPI.Employee;
+import pro.sky.StreamAPI.service.EmployeeService;
 
 import java.util.Map;
 

@@ -1,4 +1,4 @@
-package pro.sky.collections2;
+package pro.sky.StreamAPI;
 
 import java.util.Objects;
 

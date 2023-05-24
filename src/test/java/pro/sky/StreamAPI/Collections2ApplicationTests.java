@@ -1,4 +1,4 @@
-package pro.sky.collections2;
+package pro.sky.StreamAPI;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
